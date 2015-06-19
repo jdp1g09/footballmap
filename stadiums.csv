@@ -1,0 +1,146 @@
+Stadium name,Team,League,Country,Capacity,Latitude,Longitude
+St Andrews,Birmingham City,Championship,England,30009,52.4756,-1.86824
+Ewood Park,Blackburn Rovers,Championship,England,31154,53.7286,-2.48937
+Bloomfield Road,Blackpool,Championship,England,16220,53.8046,-3.04834
+Macron Stadium,Bolton Wanderers,Championship,England,28723,53.5805,-2.53571
+Seward Stadium,Bournemouth,Championship,England,10700,50.7352,-1.83839
+Griffin Park,Brentford,Championship,England,12763,51.4882,-0.302621
+Amex Stadium,Brighton & Hove Albion,Championship,England,22374,50.8609,-0.08014
+Cardiff City Stadium,Cardiff City,Championship,England,26828,51.4729,-3.20413
+The Valley,Charlton Athletic,Championship,England,27111,51.4865,0.036757
+Pride Park,Derby County,Championship,England,33597,52.9149,-1.44727
+Craven Cottage,Fulham,Championship,England,25700,51.4749,-0.221619
+The Galpharm Stadium,Huddersfield Town,Championship,England,24500,53.6543,-1.76837
+Portman Road,Ipswich Town,Championship,England,30311,52.0544,1.14554
+Elland Road,Leeds United,Championship,England,37697,53.7775,-1.57212
+Riverside,Middlesbrough,Championship,England,34988,54.5781,-1.21776
+The Den,Millwall,Championship,England,20146,51.4859,-0.050743
+Carrow Road,Norwich City,Championship,England,27033,52.6221,1.30912
+The City Ground,Nottingham Forest,Championship,England,30603,52.9399,-1.13258
+Madjeski Stadium,Reading,Championship,England,24161,51.4222,-0.982777
+New York Stadiumn,Rotherham United,Championship,England,12021,53.4281,-1.36172
+Hillsborough,Sheffield Wednesday,Championship,England,39812,53.4115,-1.50075
+Vicarage Road,Watford,Championship,England,17477,51.6498,-0.401569
+DW Stadium,Wigan Athletic,Championship,England,25138,53.5477,-2.65415
+Molineux,Wolverhampton Wanderers,Championship,England,27828,52.5904,-2.13061
+Recreation Ground,Aldershot Town,Conference,England,7100,51.2484,-0.754869
+Underhill Stadium,Barnet,Conference,England,5260,51.6464,-0.191789
+Memorial Stadium,Bristol Rovers,Conference,England,12011,51.4862,-2.58315
+Moss Rose,Macclesfield Town,Conference,England,6355,53.2427,-2.127
+Plainmoor,Torquay United,Conference,England,6104,50.4764,-3.52382
+Edgar Street,Hereford United,Conference South,England,5300,52.0607,-2.71774
+Wembley,England,International,England,90000,51.5559,-0.279543
+Hampden Park,Scotland,International,Scotland,52500,55.8258,-4.25198
+Millennium Stadium,Wales,International,Wales,74500,51.4782,-3.18281
+Oakwell,Barnsley,League 1,England,23009,53.5524,-1.46756
+Valley Parade,Bradford City,League 1,England,25136,53.8042,-1.75902
+Ashton Gate,Bristol City,League 1,England,21497,51.44,-2.62021
+B2net Stadium,Chesterfield,League 1,England,10400,53.2535,-1.4272
+Weston Homes Community Stadium,Colchester United,League 1,England,10084,51.9234,0.897861
+Ricoh Arena,Coventry City,League 1,England,32609,52.4481,-1.49563
+Broadfield Stadium,Crawley Town,League 1,England,5996,51.0996,-0.194579
+Gresty Road,Crewe Alexandra,League 1,England,10153,53.0875,-2.43569
+Keepmoat Stadium,Doncaster Rovers,League 1,England,15231,53.5099,-1.11382
+Highbury Stadium,Fleetwood Town,League 1,England,5094,53.9165,-3.02484
+Priestfield Stadium,Gillingham,League 1,England,11582,51.3844,0.560367
+Brisbane Road,Leyton Orient,League 1,England,9271,51.5601,-0.012551
+Stadiummk,MK Dons,League 1,England,22000,52.0096,-0.733507
+Meadow Lane,Notts County,League 1,England,20229,52.9425,-1.13703
+Boundary Park,Oldham Athletic,League 1,England,10638,53.5551,-2.12847
+London Road,Peterborough United,League 1,England,15315,52.5648,-0.240434
+Vale Park,Port Vale,League 1,England,19052,53.05,-2.1926
+Deepdale,Preston North End,League 1,England,24500,53.772,-2.68832
+Spotland Stadium,Rochdale,League 1,England,10249,53.6209,-2.17993
+Glanford Park,Scunthorpe United,League 1,England,9088,53.5867,-0.695244
+Bramall Lane,Sheffield United,League 1,England,32702,53.3703,-1.47083
+The County Ground,Swindon Town,League 1,England,15728,51.5645,-1.77107
+Bescot Stadium,Walsall,League 1,England,11300,52.5655,-1.99053
+Huish Park,Yeovil Town,League 1,England,9665,50.9503,-2.67383
+Crown Ground,Accrington Stanley,League 2,England,5057,53.7654,-2.37106
+Kingsmeadow,AFC Wimbledon,League 2,England,4720,51.4051,-0.281984
+Pirelli Stadium,Burton Albion,League 2,England,6912,52.8219,-1.62708
+Gigg Lane,Bury,League 2,England,11840,53.5805,-2.29487
+Abbey Stadium,Cambridge United,League 2,England,10847,52.2128,0.154298
+Brunton Park,Carlisle United,League 2,England,18202,54.8955,-2.91365
+Whaddon Road,Cheltenham Town,League 2,England,7066,51.9062,-2.06021
+Victoria Road,Dagenham and Redbridge,League 2,England,6078,51.5478,0.159739
+"St James Park, Exeter",Exeter City,League 2,England,8541,50.7307,-3.52109
+Victoria Park,Hartlepool United,League 2,England,7856,54.6891,-1.21274
+Kenilworth Road,Luton Town,League 2,England,10226,51.8842,-0.43155
+Field Mill,Mansfield Town,League 2,England,9186,53.1378,-1.2013
+Globe Arena,Morecambe,League 2,England,6476,54.0675,-2.84707
+Rodney Parade,Newport County,League 2,England,7850,51.5889,-2.98902
+Sixfields Stadium,Northampton Town,League 2,England,7653,52.2352,-0.933485
+Kassam Stadium,Oxford United,League 2,England,12500,51.7164,-1.20775
+Home Park,Plymouth Argyle,League 2,England,16388,50.3882,-4.15076
+Fratton Park,Portsmouth,League 2,England,21100,50.7964,-1.06389
+New Meadow,Shrewsbury Town,League 2,England,9875,52.6886,-2.74931
+Roots Hall,Southend United,League 2,England,12392,51.5491,0.701572
+The Lamex Stadium,Stevenage Borough,League 2,England,6722,51.8898,-0.193664
+Prenton Park,Tranmere Rovers,League 2,England,16567,53.3738,-3.03269
+Adams Park,Wycombe Wanderers,League 2,England,10284,51.6306,-0.800299
+Bootham Crescent,York City,League 2,England,7872,53.9695,-1.08833
+Emirates Stadium,Arsenal,Premiership,England,60361,51.5549,-0.108436
+Villa Park,Aston Villa,Premiership,England,42788,52.5092,-1.88508
+Turf Moor,Burnley,Premiership,England,22546,53.7888,-2.23018
+Stamford Bridge,Chelsea,Premiership,England,41837,51.4816,-0.191034
+Selhurst Park,Crystal Palace,Premiership,England,26309,51.3983,-0.085455
+Goodison Park,Everton,Premiership,England,40157,53.4387,-2.96619
+KC Stadium,Hull City,Premiership,England,25586,53.7465,-0.368009
+King Power Stadium,Leicester City,Premiership,England,32262,52.6203,-1.14217
+Anfield,Liverpool,Premiership,England,45522,53.4308,-2.96096
+Etihad Stadium,Manchester City,Premiership,England,47805,53.483,-2.20024
+Old Trafford,Manchester United,Premiership,England,75811,53.4631,-2.29139
+St James Park,Newcastle United,Premiership,England,52387,54.9756,-1.62179
+Loftus Road,Queens Park Rangers,Premiership,England,18360,51.5093,-0.232204
+St Mary's Stadium,Southampton,Premiership,England,32689,50.9058,-1.39114
+Britannia Stadium,Stoke City,Premiership,England,27598,52.9884,-2.17542
+Stadium of Light,Sunderland,Premiership,England,49000,54.9146,-1.38837
+Liberty Stadium,Swansea City,Premiership,England,20532,51.6428,-3.93473
+White Hart Lane,Tottenham Hotspur,Premiership,England,36230,51.6033,-0.065684
+The Hawthorns,West Bromwich Albion,Premiership,England,26272,52.509,-1.96418
+Boleyn Ground,West Ham,Premiership,England,35016,51.5321,0.039225
+Recreation Park,Alloa Athletic,Scottish Championship,Scotland,3412,56.1166,-3.77865
+Central Park,Cowdenbeath,Scottish Championship,Scotland,4370,56.1088,-3.34717
+Dumbarton Football Stadium,Dumbarton,Scottish Championship,Scotland,2025,55.9384,-4.56162
+Falkirk Stadium,Falkirk,Scottish Championship,Scotland,9200,56.0053,-3.75262
+Tynecastle,Heart of Midlothian,Scottish Championship,Scotland,17420,55.9388,-3.2325
+Easter Road,Hibernian,Scottish Championship,Scotland,20421,55.9616,-3.16521
+Almondvale Stadium,Livingston,Scottish Championship,Scotland,10122,55.8864,-3.52207
+Palmerston Park,Queen of the South,Scottish Championship,Scotland,6412,55.0703,-3.6246
+Stark's Park,Raith Rovers,Scottish Championship,Scotland,10104,56.0999,-3.16851
+Ibrox,Rangers,Scottish Championship,Scotland,51082,55.8529,-4.30962
+New Broomfield,Airdrie United,Scottish League 1,Scotland,10172,55.8601,-3.95997
+Somerset Park,Ayr United,Scottish League 1,Scotland,10243,55.4697,-4.61996
+Glebe Park,Brechin City,Scottish League 1,Scotland,3960,56.7353,-2.6565
+East End Park,Dunfermline,Scottish League 1,Scotland,11380,56.0756,-3.44196
+Station Park,Forfar Athletic,Scottish League 1,Scotland,5177,56.6523,-2.88492
+Cappielow Park,Greenock Morton,Scottish League 1,Scotland,19612,55.9414,-4.72719
+Balmoor,Peterhead,Scottish League 1,Scotland,4000,57.5112,-1.79599
+Ochilview Park,Stenhousemuir,Scottish League 1,Scotland,3776,56.0282,-3.81449
+Forthbank Stadium,Stirling Albion,Scottish League 1,Scotland,3808,56.1191,-3.91194
+Stair Park,Stranraer,Scottish League 1,Scotland,5600,54.9022,-5.01249
+Borough Briggs,Elgin City,Scottish League 2,Scotland,4927,57.6518,-3.3209
+Cliftonhill,Albion Rovers,Scottish League Two,Scotland,2496,55.8602,-4.01145
+Galabank,Annan Athletic,Scottish League Two,Scotland,2007,54.9948,-3.2612
+Gayfield Park,Arbroath,Scottish League Two,Scotland,5940,56.5523,-2.5914
+Shielfield Park,Berwick Rangers,Scottish League Two,Scotland,4131,55.76,-2.01599
+Broadwood Stadium,Clyde,Scottish League Two,Scotland,8029,55.9447,-4.0379
+Bayview Stadium,East Fife,Scottish League Two,Scotland,2000,56.1889,-2.99914
+Links Park,Montrose,Scottish League Two,Scotland,3292,56.714,-2.45902
+Pittodrie,Aberdeen,Scottish Premiership,Scotland,22199,57.1593,-2.08872
+Celtic Park,Celtic,Scottish Premiership,Scotland,60832,55.8497,-4.20561
+Dens Park,Dundee,Scottish Premiership,Scotland,11856,56.4747,-2.97352
+Tannadice Park,Dundee United,Scottish Premiership,Scotland,14209,56.4748,-2.96902
+New Douglas Park,Hamilton Academical,Scottish Premiership,Scotland,6078,55.7821,-4.058
+The Caledonian Stadium,Inverness Caledonian Thistle,Scottish Premiership,Scotland,7918,57.4951,-4.21751
+Rugby Park,Kilmarnock,Scottish Premiership,Scotland,18128,55.6046,-4.50846
+Fir Park,Motherwell,Scottish Premiership,Scotland,13742,55.7804,-3.9803
+Firhill,Partick Thistle,Scottish Premiership,Scotland,13079,55.8815,-4.26938
+"Victoria Park, Dingwall",Ross County,Scottish Premiership,Scotland,6310,57.5959,-4.41898
+McDiarmid Park,St Johnstone,Scottish Premiership,Scotland,10673,56.4099,-3.47684
+St Mirren Park,St Mirren,Scottish Premiership,Scotland,8023,55.8529,-4.42879
+Santiago Bernabeu Stadium,Spain,International,Spain,81044,40.4531,-3.68835
+Stadio Olimpico,Italy,International,Italy,70634,41.9339,12.4548
+Stade de France,France,International,France,81338,48.9244,2.36
+Olympiastadion,Germany,International,Germany,74064,52.5147,13.2394

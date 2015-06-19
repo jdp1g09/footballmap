@@ -1,0 +1,51 @@
+<html>
+<head>
+<title>Transfer Data</title>
+<script src="libs/d3-master/d3.js" charset="utf-8"></script>
+
+<script src="http://d3js.org/topojson.v1.min.js"></script>
+<script type="text/javascript" src="js/functions.js"></script>
+
+<link rel="stylesheet" type="text/css" href="css/common.css">
+
+</head>
+<body onload="startup()">
+<div id="left" style="width: 610px;display: inline-block;">
+	<svg style="background-color:#3987c9;border:5px solid #3A3838" id="map"></svg>
+	
+	<div id="label">
+		<table>
+			<tr><td style="text-align:right">Team Name:</td><td id="teamName"></td></tr>
+			<tr><td style="text-align:right">Stadium Name:</td><td id="stadName"></td></tr>
+			<tr><td style="text-align:right">Capacity:</td><td id="capacityLabel"></td></tr>
+		</table>
+	</div>
+	<div class="capSlider" style="width:600px;display:block">
+		<input id="slider" type="range" min="0" max="90000" step="100" value="0" oninput="minCapacity(this);"/>
+		<label id="capacity">0</label>
+	</div>
+</div>
+<div class="right">
+	<h1 id="team">Manchester United</h1>
+	<table style="width:100%">
+		<tr>
+			<td style="width:50%;vertical-align: top;">
+				<table class="ins_outs">
+					<tr><th>In</th><th>From</th><th id="inSum">£Sum</th></tr>
+					<tbody id="ins">
+					</tbody>
+				</table>
+			</td>
+			<td style="width:50%;vertical-align: top;padding-left:30px">
+				<table class="ins_outs">
+					<tr><th>Out</th><th>To</th><th id="outSum">£Sum</th></tr>
+					<tbody id="outs">
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</table>
+</div>
+
+</body>
+</html>

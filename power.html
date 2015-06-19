@@ -1,0 +1,106 @@
+
+<head>
+
+<style>
+#test object {
+  position: absolute;
+}
+.point {
+  fill: #f00;
+  fill-opacity: .5;
+}
+.point:hover {
+  stroke: #000;
+  fill: #f90;
+}
+.power {
+  stroke: #00f;
+  stroke-width: .5px;
+  fill: none;
+}
+.hide {
+  display: none;
+}
+</style>
+
+
+<script src="libs/d3-master/d3.js" charset="utf-8"></script>
+<script src="libs/d3.geom.nhull.js" charset="utf-8"></script>
+<script src="libs/power.js" charset="utf-8"></script>
+<script>
+
+function onload(){
+var width = 960,
+height = 500;
+
+var vertices = d3.range(25).map(function() {
+	return [Math.random() * width, Math.random() * height, Math.random() * 50 * 50];
+});
+
+var cells = d3.geom.power(vertices, function(d) { return d[2]; });
+    
+var svg = d3.select("#chart").append("svg")
+	.attr("width", width)
+	.attr("height", height);
+
+svg.selectAll(".point")
+	.data(vertices)
+	.enter().append("circle")
+	.attr("class", "point")
+	.attr("r", function(d) { return Math.sqrt(d[2]); })
+	.attr("id",function(d,i){return "circle"+i;})
+	.attr("transform", function(d) { return "translate(" + d[0] + "," + d[1] + ")"; })
+	/* .call(d3.behavior.drag()
+	  .origin(function(d) { return {x: d[0], y: d[1]}; })
+	  .on("dragstart", function() {
+	    this.parentNode.appendChild(this);
+	  })
+	  .on("drag", function(d) {
+	    d[0] = d3.event.x, d[1] = d3.event.y;
+	    d3.select(this).attr("transform", "translate(" + d[0] + "," + d[1] + ")");
+	    redraw();
+	  })); */
+	  
+var power = svg.selectAll(".power")
+	.data(cells)
+	.enter().append("path")
+	.attr("class", "power")
+	.attr("id",function(d,i){return "vornoi"+i;})
+	.attr("d", function(d) { return d ? "M" + d.join("L") + "Z" : null; });
+
+/* redraw();
+
+function redraw() {
+	var cells = d3.geom.power(vertices, function(d) { return d[2]; });
+	
+	var power = svg.selectAll(".power").data(cells);
+	power.enter().append("path").attr("class", "power");
+	power.exit().remove();
+	power.attr("d", function(d) { return d ? "M" + d.join("L") + "Z" : null; });
+} */
+
+//TODO move to power.js.
+function corners(width, height) {
+  return [
+    [-width, -height, 0],
+    [2 * width, -height, 0],
+    [-width, 2 * height, 0],
+    [2 * width, 2 * height, 0]
+  ];
+}
+
+/* var svg = d3.select("#test").append("svg")
+    .attr("width", width)
+    .attr("height", height); */
+
+d3.select("#toggle").on("click", function() {
+  power.classed("hide", !power.classed("hide"));
+});
+	
+	
+}
+</script>
+</head>
+<body onload="onload()">
+	<div id="chart"></div>
+</body>
